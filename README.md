@@ -1,6 +1,9 @@
 # trilium-theme
 
+## cleantype theme
 
+2-5-2021
+my first trilium theme. Needed something easy on the eyes. work in progress.
 
 
 ![image](https://user-images.githubusercontent.com/84742924/119934281-d335b500-bf85-11eb-8c4b-8682f9860850.png)
