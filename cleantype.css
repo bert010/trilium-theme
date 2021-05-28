@@ -19,10 +19,23 @@ body.theme-cleantype {
     --main-font-size: 0.8rem!important;
    }
 
+.theme-cleantype .ck-content pre {min-width:100%}
+
 .theme-cleantype .gutter.gutter-horizontal{width:8px!important;}
 
+.theme-cleantype .promoted-attribute-cell {
+    display: flex;
+    align-items: center;
+    margin: 00px;
+}
+.theme-cleantype  .note-book-card {padding:0px 15px 8px 10px}
 
-
+.theme-cleantype  .note-list-widget .note-list {
+    padding: 10px;
+    padding-top: 16px;
+}
+.theme-cleantype .note-list-container
+{margin-top:6px;}
  .theme-cleantype.h6, .theme-cleantype h6  {  font-size: 1.00rem!important;}
  .theme-cleantype.h5, .theme-cleantype h5  {  font-size: 1.00rem!important;}
  .theme-cleantype.h4, .theme-cleantype h4  {  font-size: 1.10rem!important;}
@@ -125,8 +138,8 @@ body.theme-cleantype {
 
 .theme-cleantype button.icon-button {
     font-size: 1.0em!important;
-    padding: 1px;
-    max-height: 22px!important;
+    padding: 0px;
+    max-height: 16px!important;
     margin-top: -0px;
    
 }
@@ -134,7 +147,7 @@ body.theme-cleantype {
 .theme-cleantype .floating-button {
     position: absolute!important;
     z-index: 100;
-    top: -4px!important;
+    top: 0px!important;
 }
 
 .theme-cleantype .note-tab-row {background-color: #f0f0f0;}
@@ -211,7 +224,9 @@ padding:10px;
     font-weight: 500;
     line-height: 1.52;
 }
-
+.theme-cleantype  .rendered-note-content {
+       padding:10px 10px 10px 10px;
+}
 
 .theme-cleantype .note-book-title .rendered-note-attributes {
         font-size: xx-small;
@@ -239,7 +254,7 @@ padding:10px;
 }
 
 .theme-cleantype .note-detail{  padding-left: 10px;
-  padding-right: 20px;margin-bottom: -20px;}
+  padding-right: 20px;margin-bottom: -30px;}
 
 
 .theme-cleantype  .section-title-container {
