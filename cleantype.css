@@ -19,6 +19,35 @@ body.theme-cleantype {
     --main-font-size: 0.8rem!important;
    }
 
+.theme-cleantype .collapse-tree-button {
+        position: absolute;
+        top: 10px;
+        right: 40px;
+        z-index: 100;
+    }
+    
+ .theme-cleantype   .scroll-to-active-note-button {
+        position: absolute;
+        top: 10px;
+        right: 20px;
+        z-index: 100;
+    }
+    
+.theme-cleantype    .tree-settings-button {
+        position: absolute;
+        bottom: 10px;
+        right: 20px;
+        z-index: 100;
+    }
+
+.theme-cleantype .btn-sm {
+    padding: .1rem .9rem;}
+
+.theme-cleantype .search-result-widget {
+   
+    margin-top: 30px;
+}
+
 .theme-cleantype .ck-content pre {min-width:100%}
 
 .theme-cleantype .gutter.gutter-horizontal{width:8px!important;}
@@ -132,7 +161,7 @@ body.theme-cleantype {
 
 
 .theme-cleantype .note-title-container input.note-title {
-        font-size: 100%!important;
+        font-size: 120%!important;
        
     }
 
