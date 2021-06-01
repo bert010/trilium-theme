@@ -1,7 +1,9 @@
 
 
-2-5-2021
+
 my first trilium theme. Needed something easy on the eyes. work in progress.
+
+updated 1-6-2021.
 
 ![Screenshot - 2021-06-01 22 00 51](https://user-images.githubusercontent.com/84742924/120383323-07fa9100-c325-11eb-8862-9ad976d1053a.png)
 
