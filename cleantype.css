@@ -102,6 +102,7 @@ body.theme-cleantype {
         font-size:0.8rem;
         border:0px;
         padding: .2rem .5rem;
+    margin-bottom: 6px;
         height:100%;
         text-transform: lowercase;}
 
@@ -247,8 +248,8 @@ body.theme-cleantype {
 
 
 .theme-cleantype .note-book-title {
-    margin-bottom: 0;
-    word-break: normal!important;
+    margin-bottom: 0;  word-break: normal;
+   
 }
 
 
@@ -257,24 +258,31 @@ body.theme-cleantype {
 }
 
 .theme-cleantype .note-list.grid-view .note-book-card {
-    flex-basis: 180px;
-    max-height: 240px;
-    max-width: 200px;
+    flex-basis: 210px;
+    max-height: 280px;
+    max-width:240px;
     /* border: 1px solid #9e9d9d40; */
     background-color: #f9f9f9;
-    border-radius: 12px !important;
+    border-radius: 9px !important;
     padding: 10px;
     margin: 8px;
     border-bottom: 20px solid  #f9f9f9;
 }
 
+.theme-cleantype .note-list.grid-view .note-book-card img{
+    max-height:190px;width:auto;
+}
+
+.theme-cleantype .note-list.grid-view .note-book-card .ck-content .image{margin-bottom:5px!important;}
+
+
 .theme-cleantype .note-list.grid-view .note-book-card:hover {
-     flex-basis: 180px;
-    max-height: 240px;
-    max-width: 200px;
+     flex-basis: 210px;
+    max-height: 280px;
+    max-width: 240px;
 /* border: 1px solid #9e9d9d40; */
     background-color: #ffffff!important;
-      border-radius: 12px !important;
+      border-radius: 9px !important;
     padding: 10px;
     margin: 8px;
        border-bottom: 20px solid white!important; 
@@ -305,7 +313,7 @@ r
 
 .theme-cleantype .note-book-title .rendered-note-attributes {
         font-size: xx-small;
-    color: #4189f3;
+    color: #4189f3;float:right;
 }
 
 .theme-cleantype .ui-fancytree {
