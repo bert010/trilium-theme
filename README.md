@@ -3,11 +3,12 @@
 2-5-2021
 my first trilium theme. Needed something easy on the eyes. work in progress.
 
-![Screenshot - 2021-05-29 19 13 20](https://user-images.githubusercontent.com/84742924/120079029-6b30bd00-c0b2-11eb-9536-cb221eccab8c.png)
+![Screenshot - 2021-06-01 22 00 51](https://user-images.githubusercontent.com/84742924/120383323-07fa9100-c325-11eb-8862-9ad976d1053a.png)
 
-![Screenshot - 2021-05-29 19 15 43](https://user-images.githubusercontent.com/84742924/120079031-708e0780-c0b2-11eb-81a4-9a0a31e9e25e.png)
+![Screenshot - 2021-06-01 22 00 57](https://user-images.githubusercontent.com/84742924/120383331-0af58180-c325-11eb-9fb7-3ef87796cc74.png)
 
-![Screenshot - 2021-05-29 19 13 37](https://user-images.githubusercontent.com/84742924/120079037-7683e880-c0b2-11eb-9f72-2235846d5a36.png)
+![Screenshot - 2021-06-01 22 01 06](https://user-images.githubusercontent.com/84742924/120383346-0df07200-c325-11eb-99d0-e7a8b846e40d.png)
 
-![Screenshot - 2021-05-29 19 16 16](https://user-images.githubusercontent.com/84742924/120079044-7ab00600-c0b2-11eb-839a-c8ee53b8369e.png)
+![Screenshot - 2021-06-01 22 01 12](https://user-images.githubusercontent.com/84742924/120383354-1052cc00-c325-11eb-98f4-9b3bd8c6ef0d.png)
 
+![Screenshot - 2021-06-01 22 01 17](https://user-images.githubusercontent.com/84742924/120383361-121c8f80-c325-11eb-8a4e-ebf1b370ce75.png)
