@@ -7,7 +7,7 @@ the to-do list and the bookmarks list in the right pane are custom widgets.
 
 It's still a work in progress so if anyone uses this and finds quirks let me know
 
-updated 1-6-2021.
+updated 30-6-2021.
 
 ![Screenshot - 2021-06-28 09 31 57](https://user-images.githubusercontent.com/84742924/123994974-290adc00-d9ce-11eb-916c-ef4b28621095.png)
 
