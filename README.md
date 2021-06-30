@@ -2,6 +2,7 @@
 
 
 my first trilium theme. I Needed a theme easy on the eyes, compact for use on my 10" chromebook and fitting well side to side with my Eagle.cool image archiving app which I use a lot. Since I use a lot if images it was important to get all images whether portrait or landscape to display without being cropped in card view mode.
+the to-do list and the bookmarks list in the right pane are custom widgets.
 
 
 It's still a work in progress so if anyone uses this and finds quirks let me know
